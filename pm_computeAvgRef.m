@@ -15,3 +15,5 @@ for ctTrl=1:nTrials
         AvgRef.trial{ctTrl}(ctTime)=mean(data.trial{ctTrl}(:,ctTime));
     end
 end
+
+RvgRef.label='avg';

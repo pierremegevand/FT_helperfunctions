@@ -17,3 +17,5 @@ for ctTrl=1:nTrials
         GFP.trial{ctTrl}(ctTime)=sqrt(sum((data.trial{ctTrl}(:,ctTime)-AvgRef.trial{ctTrl}(ctTime)).^2)./nChannels);
     end
 end
+
+GFP.label='GFP';
