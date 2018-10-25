@@ -16,4 +16,4 @@ for ctTrl=1:nTrials
     end
 end
 
-RvgRef.label='avg';
+RvgRef.label={'avg'};

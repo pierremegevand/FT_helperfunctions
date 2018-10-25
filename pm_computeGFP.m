@@ -18,4 +18,4 @@ for ctTrl=1:nTrials
     end
 end
 
-GFP.label='GFP';
+GFP.label={'GFP'};
