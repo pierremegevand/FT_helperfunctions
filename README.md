@@ -1,6 +1,6 @@
 # FT_helperfunctions
 
-Some functions that may be helpful to process M/EEG data with Fieldtrip (http://www.fieldtriptoolbox.org/).
+Some functions that may be helpful to process M/EEG data with the MATLAB toolbox Fieldtrip (http://www.fieldtriptoolbox.org/).
 
 pm_computeAvgRef: computes average reference for M/EEG data in a Fieldtrip data structure format.
 
